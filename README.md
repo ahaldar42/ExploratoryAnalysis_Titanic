@@ -1,5 +1,5 @@
-# ExploratoryAnalysis_Titanic
-ExploratoryAnalysis of Titanic dataset
+# Exploratory Data Analysis Titanic
+Exploratory Data Analysis of Titanic dataset
 
 The Titanic challenge on Kaggle is a competition in which the goal is to predict the survival or the death of a given passenger based on a set of variables describing them by their age, their sex, or their passenger class on the boat.
 
@@ -12,3 +12,5 @@ The main libraries I used are:
 * Numpy for multidimensional array computing
 * Pandas for data manipulation
 * Matplotlib and Seaborn for data visualization
+
+[link to kaggle project](https://www.kaggle.com/c/titanic)
